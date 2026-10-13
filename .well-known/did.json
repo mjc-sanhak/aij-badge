@@ -3,23 +3,23 @@
     "https://www.w3.org/ns/did/v1",
     "https://w3id.org/security/suites/jws-2020/v1"
   ],
-  "id": "did:web:badge.mjc-aion.org",
+  "id": "did:web:badge.mjc.ac.kr",
   "verificationMethod": [
     {
-      "id": "did:web:badge.mjc-aion.org#key-1",
+      "id": "did:web:badge.mjc.ac.kr#key-1",
       "type": "JsonWebKey2020",
-      "controller": "did:web:badge.mjc-aion.org",
+      "controller": "did:web:badge.mjc.ac.kr",
       "publicKeyJwk": {
         "kty": "RSA",
         "key_ops": [
           "verify"
         ],
-        "n": "yRMKUHcpjb_edhnZ6Y3m8D-K0wJqkWahHeH5q-ux-wkalhVPM3VhLb_IQl3Svu9Wi_SvYyYzZljupOcLrwk5Hr-eT2pVtsSpepfW1ZUuEOcI4yHb4oPipVpY-VsGzxF9JLGkVzbthkNoDr49yvzaY8AHZBxYhr-TYFVb3ow46DntiF_CN-m9MX0rI9A3advKmeejmmmwpVUeRA0HkQ2fnUnLTK6nGCCls2Gk4GVcJNwysj_-GpPkAxYJNVnO-nFGaEo7-OYKxi-WfGBfF0497h-BJPzS8bu2NiGAngMlquY5zqlq-WhGKLXVKlVYlI2vYNo8oBMP9lBZfysMjHwkKw",
+        "n": "omSllst_M6276CJFoAZjRXHAHde7f7JdRAsZOxy6w6RzwtuQfv6RvxkjYY_OMejlp_4GpANOmha28InbenLXxzR30swx8j84gcr4Tv1LK1F3qYURgGXrA8mdj0YdYRO_WwAyvjj_9gnJkqTvZO6PtMYMcceuQxJ1RAANA4zCNv1tOpIIAe0xduAz_IsJGSJGAqGpDyoHRTULmmzhXKPMdRO5zdaoHqOvV5nI89AS8ZUXiUUF8wROyjwyq-qk25qTA9v9U6LgSdigO3C06tV3uxBfn7vterBzYk7-iUKhREtidqbC9hiVXyiFa6ffkAnFErhFjBImTfADrqQ_JiAIpQ",
         "e": "AQAB"
       }
     }
   ],
   "assertionMethod": [
-    "did:web:badge.mjc-aion.org#key-1"
+    "did:web:badge.mjc.ac.kr#key-1"
   ]
 }
