@@ -9,9 +9,9 @@
     "Achievement"
   ],
   "name": "AI Jungle Badge Lv.5 Jungle (정글)",
-  "description": "명지전문대학 AI Jungle 비교과 프로그램 5단계(Jungle) 수료 인증 배지. AI 활용 역량을 다른 학생에게 전하고 교내외에서 성과를 낸 리더임을 인증합니다.",
+  "description": "명지전문대학 AI Jungle 비교과 프로그램 5단계(Jungle) 수료 인증 배지. AI 분야에서 가장 높은 수준의 누적 성과를 이룬 학생임을 인증합니다.",
   "criteria": {
-    "narrative": "[초안] 후배 멘토링 10시간 + 우수 성과 1건(공모전 입상, 산학 프로젝트, 사례 공유 발표 중 택1) + 운영위원회 심사 통과 (선수 조건: Lv.4)"
+    "narrative": "AI Jungle 포인트 누적 77p 이상 달성. 포인트: AI 특강(대면 3p·비대면 1p), AI 해커톤(참여 1p·수상 3p), AI:ON 경진대회(1단계 선정 1p·2단계 선정 3p·Top10 5p·대상 10p), AI 관련 창업(사업자 등록증 제출) 15p, 특허(출원 10p, 등록 시 10p 추가), AI 관련 현장실습 15p, 정규교과(AI융합 마이크로디그리 학점당 5p, MBS AI 공동개발 교과목 학점당 6p). 같은 활동은 가장 높은 단계 하나만 인정합니다(특허 등록 점수는 출원 점수에 더함)."
   },
   "achievementType": "Badge",
   "image": {
